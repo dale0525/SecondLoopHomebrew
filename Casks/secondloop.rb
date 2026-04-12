@@ -1,8 +1,8 @@
 cask "secondloop" do
-  version "1.28.4"
-  sha256 "ccee665ecb77b7f09b73dc7249c16fcc971422c67dfa25c120d7edfb07d9fa34"
+  version "1.29.0"
+  sha256 "411c9dfd247dbbc2dd7324d81390c4feb85d15f3dc409ba5378dab0835e4ea86"
 
-  url "https://github.com/dale0525/SecondLoop/releases/download/v1.28.4/SecondLoop-macos-v1.28.4.dmg",
+  url "https://github.com/dale0525/SecondLoop/releases/download/v1.29.0/SecondLoop-macos-v1.29.0.dmg",
       verified: "github.com/dale0525/SecondLoop/"
   name "SecondLoop"
   desc "Local-first personal AI assistant with long-term memory"
